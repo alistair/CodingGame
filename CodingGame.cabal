@@ -19,3 +19,6 @@ executable CodingGame
   build-depends:       base >= 4.7 && < 5
                      , containers
                      , filepath
+                     , text
+                     , attoparsec
+                     , bytestring
